@@ -7,7 +7,7 @@ namespace Superscript;
 class Converter
 {
     private static $mapping = [
-        '1' => '&#xb9;',
+        '1' => '&#185;',
         '2' => '&#xb2;',
         '3' => '&#xb3;',
 
